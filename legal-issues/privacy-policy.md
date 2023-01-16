@@ -29,7 +29,7 @@ Any relevant laws may prevent the Company to comply with any request that you ma
 
 ## GOVERNING LAW
 
-This privacy policy always complies with the laws of Singapore. You consent to submit to the exclusive jurisdiction of the Courts of Singapore in any dispute relating to this privacy policy.
+This privacy policy always complies with the laws of Cayman Islands. You consent to submit to the exclusive jurisdiction of the Courts of Cayman Islands in any dispute relating to this privacy policy.
 
 ## THIRD PARTIES
 
