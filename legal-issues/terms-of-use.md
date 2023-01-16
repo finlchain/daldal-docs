@@ -45,3 +45,33 @@ The Company may modify or discontinue the Services or the Materials, or any port
 The Company makes no warranties, express or implied, including without limitation, any implied warranties of merchantability or fitness for a particular purpose, in relation to the Materials.
 
 Furthermore, the Company disclaims (a) any and all responsibility or liability for the accuracy, content, completeness, legality, reliability, or availability or operability of information or materials displayed on the Services, or the Website or any of its subpages; (b) any and all responsibility for the conduct of the Users of the Services; (c) any and all responsibility for any harm resulting from downloading or accessing any information or material on the Internet through the Services, the Website or any of its subpages; (d) any and all responsibility for any financial gains, losses or tax consequences associated with using the Services and the associated crypto asset.
+
+### Limitation of Liability
+
+Under no circumstances will the Company be liable to you or any other persons for any indirect, incidental, consequential, special, exemplary, or punitive damages arising out of or in connection with the Terms, the Services, using crypto asset or the Internet generally, including, without limitation, your use or inability to use the Services; any changes to or inaccessibility or termination of the Services; any delay, failure, unauthorized access to or alteration of any transmission or data; any transactions or agreements entered into through the Services; or any data or materials from a third party accessed on or through the Services, whether such liability is asserted on the basis of tort or otherwise, and whether or not the Company has been advised of the possibility of such damages.
+
+Such limitation of liability shall apply whether the damages arise from use or misuse of and reliance on the Company or the Services, notwithstanding any failure of essential purpose of any limited remedy and to the fullest extent permitted by law. If you are dissatisfied with the Services, your sole and exclusive remedy shall be for you to discontinue using the Services.
+
+The Users agree to hold harmless and indemnify the Company, its directors, officers, employees and agents from and against any action, cause claims, suit, judgment, damage (Actual and consequential), debt, demand, expense or liability (including reasonable costs and attorney’s fees) of every kind and nature, asserted by any person, arising from or in any way related to using the Services, crypto asset or the Website.
+
+The foregoing does not affect any liability which cannot be excluded or limited under applicable laws which may include fraud.
+
+### Proprietary Rights
+
+The Services run on open source software and freely distributable under the respective licenses.
+
+The Marks is the property of the Company. The Users are not permitted to use the Marks without any consent from the Company.
+
+### Privacy Policy
+
+Using the Services is amount to the user’s consent to FINL LLC’s privacy policy, which can be found \[[here](privacy-policy.md)].
+
+### Termination of the Services or Materials
+
+The Company, in its sole discretion, reserves the right (a) to terminate the Services for the users who violate the Terms or any applicable laws and regulations; (b) to remove or disable access to all or any portion of the Services; (c) to suspend any user’s access to or using all or any portion of the Services; and (d) to remove any content from the Company’s servers at any time with or without any notice.
+
+The Users may also terminate the Users’ access of using the Services or the Materials at any time.
+
+### The Terms and Termination
+
+The Terms are effective as of the time you first access the Services, and shall survive any termination or expiration of the Services or the Materials.
