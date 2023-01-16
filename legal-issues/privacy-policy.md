@@ -1,6 +1,6 @@
 # Privacy Policy
 
-FINL LCC (‘the Company’ or ‘We’) does not collect any personal data which can identify any particular users. This website does not use any invasive tracking software. The Company does NOT track any users.
+FINL PTE. LTD. (‘the Company’ or ‘We’) does not collect any personal data which can identify any particular users. This website does not use any invasive tracking software. The Company does NOT track any users.
 
 ## What we collect
 
