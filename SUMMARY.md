@@ -3,16 +3,15 @@
 * [Introduction to DalDal Wallet](README.md)
 
 ## BASIC GUIDES
-
-* [Get Started](basic-guides/get-started.md)
-  * [DalDal Wallet](basic-guides/daldal-wallet/README.md)
+* [DalDal Wallet](basic-guides/README.md)
     * [DalDal Wallet Extension](basic-guides/daldal-wallet-extension.md)
     * [DalDal Wallet Android](basic-guides/daldal-wallet-android.md)
-    * [Joining on DALDAL](basic-guides/daldal-wallet/joining-on-daldal.md)
-    * [Features of DALDAL](basic-guides/daldal-wallet/features-of-daldal/README.md)
-      * [Token List](basic-guides/daldal-wallet/features-of-daldal/token-list.md)
-      * [Transactions](basic-guides/daldal-wallet/features-of-daldal/transactions.md)
-      * [NFT](basic-guides/daldal-wallet/features-of-daldal/nft.md)
+    * [Joining on DALDAL](basic-guides/joining-on-daldal.md)
+    * [Features of DALDAL](basic-guides/features-of-daldal/README.md)
+      * [Multi-Wallet](basic-guides/features-of-daldal/multi-wallet.md)
+      * [Token List](basic-guides/features-of-daldal/token-list.md)
+      * [Transactions](basic-guides/features-of-daldal/transactions.md)
+      * [NFT](basic-guides/features-of-daldal/nft.md)
 
 ## ADVANCED GUIDES
 
