@@ -6,6 +6,8 @@
 
 * [Get Started](basic-guides/get-started.md)
   * [DalDal Wallet](basic-guides/daldal-wallet/README.md)
+    * [DalDal Wallet Extension](basic-guides/daldal-wallet-extension.md)
+    * [DalDal Wallet Android](basic-guides/daldal-wallet-android.md)
     * [Joining on DALDAL](basic-guides/daldal-wallet/joining-on-daldal.md)
     * [Features of DALDAL](basic-guides/daldal-wallet/features-of-daldal/README.md)
       * [Token List](basic-guides/daldal-wallet/features-of-daldal/token-list.md)
